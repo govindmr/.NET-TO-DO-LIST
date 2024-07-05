@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ToDoListDBModelStoreContainer" CdmEntityContainer="ToDoListDBEntities">
+    <EntitySetMapping Name="TO_DO_LIST_TABLE">
+      <EntityTypeMapping TypeName="ToDoListDBModel.TO_DO_LIST_TABLE">
+        <MappingFragment StoreEntitySet="TO_DO_LIST_TABLE">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="TaskName" ColumnName="TaskName" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

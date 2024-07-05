@@ -1,0 +1,6 @@
+D:\Machine Tests\Manvish\ToDOListModel\bin\Debug\ToDOListModel.dll
+D:\Machine Tests\Manvish\ToDOListModel\bin\Debug\ToDOListModel.pdb
+D:\Machine Tests\Manvish\ToDOListModel\obj\Debug\ToDOListModel.csproj.AssemblyReference.cache
+D:\Machine Tests\Manvish\ToDOListModel\obj\Debug\ToDOListModel.csproj.CoreCompileInputs.cache
+D:\Machine Tests\Manvish\ToDOListModel\obj\Debug\ToDOListModel.dll
+D:\Machine Tests\Manvish\ToDOListModel\obj\Debug\ToDOListModel.pdb
